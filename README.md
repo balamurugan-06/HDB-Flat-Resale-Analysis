@@ -16,3 +16,6 @@
 
 ## File
 - `HDB_Flat_Review.twbx` — Ready to open in Tableau Public
+
+## Dashboard Screenshot
+![Dashboard](https://github.com/user-attachments/assets/a07545bb-f72f-4405-86be-dd74acd096c3)
